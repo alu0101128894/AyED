@@ -4,4 +4,4 @@ Repositorio para las prácticas de la asignatura de Algoritmo y Estructura de Da
 
 ## [Prácticas](https://github.com/alu0101128894/AyED/tree/main/Pr%C3%A1cticas)
 
-## [Pruebas]()
+## [Pruebas](https://github.com/alu0101128894/AyED/tree/main/Pruebas)
